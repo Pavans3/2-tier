@@ -18,7 +18,7 @@ To get started with deploying the application, follow these steps:
 
 1. Clone the repository to your local machine:https://github.com/Pavans3/2-tier.git
 2. Navigate to the project directory:cd 2-tier
-3. create the custom network to run both application with same time 
+3. create the custom network to run both application with the same network 
 4. Build and run the Docker containers: docker build -t && docker run 
 5. Access the application in your web browser: IP:port_number 5000/tasks
 
