@@ -16,5 +16,27 @@ This repository contains the code and configurations for deploying a two-tier ap
 
 To get started with deploying the application, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine:https://github.com/Pavans3/2-tier.git
+2. Navigate to the project directory:cd 2-tier
+3. create the custom network to run both application with same time 
+4. Build and run the Docker containers: docker build -t && docker run 
+5. Access the application in your web browser: IP:port_number 5000/tasks
+
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to the project, feel free to submit a pull request.
+
+## Issues
+
+If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
+
+
+
 
