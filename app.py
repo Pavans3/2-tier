@@ -15,7 +15,7 @@ def index():
 @app.route("/tasks")
 def get_all_tasks():
     tasks = db.task.find()
-    data = [Pavan]
+    data = []
     for task in tasks:
         item = {
             "id": str(task["_id"]),
